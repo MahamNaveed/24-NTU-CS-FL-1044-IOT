@@ -8,8 +8,8 @@
 This project uses an ESP32 to fade two LEDs with PWM. An SSD1306 I2C OLED shows the duty cycle (%) and PWM settings of both LEDs. The project was tested in Wokwi and on real hardware.
 
 ## Links
-- Wokwi project: [paste Wokwi link here]
-- GitHub repository: [paste repository link here]
+- Wokwi project: https://wokwi.com/projects/478839966002444289
+- GitHub repository:https://github.com/MahamNaveed/24-NTU-CS-FL-1044-IOT
 
 ## Components
 - ESP32 development board
